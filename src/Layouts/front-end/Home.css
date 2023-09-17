@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.Home{
+height: 100vh;
+background-color: rgb(218, 182, 125);
+
+}
+
+ .logo{
+    font-size: bold;
+    font-weight: 700;
+}
+
+    
+.linkhome{
+    text-decoration: none;
+   margin-right: 75px;
+}

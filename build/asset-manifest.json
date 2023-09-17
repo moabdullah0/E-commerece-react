@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.0a9f647d.css",
+    "main.js": "/react-gh-pages/static/js/main.fc15836b.js",
+    "static/js/200.c4a108db.chunk.js": "/react-gh-pages/static/js/200.c4a108db.chunk.js",
+    "static/js/539.bf2e4534.chunk.js": "/react-gh-pages/static/js/539.bf2e4534.chunk.js",
+    "static/js/787.42186139.chunk.js": "/react-gh-pages/static/js/787.42186139.chunk.js",
+    "static/media/16544-removebg-preview.png": "/react-gh-pages/static/media/16544-removebg-preview.26133b3fff1bbbd18c0b.png",
+    "static/media/20943855_preview_rev_1.png": "/react-gh-pages/static/media/20943855_preview_rev_1.712486b88cb02a0c281a.png",
+    "static/media/undraw_web_shopping_re_owap.svg": "/react-gh-pages/static/media/undraw_web_shopping_re_owap.0b4c95201f9e0eb4b6b167100942d93d.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.0a9f647d.css.map": "/react-gh-pages/static/css/main.0a9f647d.css.map",
+    "main.fc15836b.js.map": "/react-gh-pages/static/js/main.fc15836b.js.map",
+    "200.c4a108db.chunk.js.map": "/react-gh-pages/static/js/200.c4a108db.chunk.js.map",
+    "539.bf2e4534.chunk.js.map": "/react-gh-pages/static/js/539.bf2e4534.chunk.js.map",
+    "787.42186139.chunk.js.map": "/react-gh-pages/static/js/787.42186139.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a9f647d.css",
+    "static/js/main.fc15836b.js"
+  ]
+}
